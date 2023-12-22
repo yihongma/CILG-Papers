@@ -25,6 +25,16 @@ We aim to keep this list up to date. If you come across any errors or papers tha
 
 ### Data Interpolation
 
+* **Rethinking Semi-Supervised Imbalanced Node Classification from Bias-Variance Decomposition**, in *NeurIPS* 2023. [\[pdf\]](https://arxiv.org/pdf/2310.18765.pdf) [\[code\]](https://github.com/yanliang3612/ReVar)
+
+* **Semantic-aware Node Synthesis for Imbalanced Heterogeneous Information Networks**, in *CIKM* 2023. [\[pdf\]](https://arxiv.org/pdf/2302.14061.pdf)
+
+* **HOVER: Homophilic Oversampling via Edge Removal for Class-Imbalanced Bot Detection on Graphs**, in *CIKM* 2023. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3583780.3615264)
+
+* **GraphSHA: Synthesizing Harder Samples for Class-Imbalanced Node Classification**, in *KDD* 2023. [\[pdf\]](https://arxiv.org/pdf/2306.09612.pdf) [\[code\]](https://github.com/wenzhilics/GraphSHA)
+
+* **Imbalanced Node Classifcation Beyond Homophilic Assumption**, in *IJCAI* 2023. [\[pdf\]](https://www.ijcai.org/proceedings/2023/0848.pdf)
+
 * **GraphMixup: Improving Class-Imbalanced Node Classification by Reinforcement Mixup and Self-supervised Context Prediction**, in *ECML/PKDD* 2023. [\[pdf\]](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_375.pdf) [\[code\]](https://github.com/LirongWu/GraphMixup)
 
 * **GATSMOTE: Improving Imbalanced Node Classification on Graphs via Attention and Homophily**, in *Mathematics* 2022. [\[pdf\]](https://www.mdpi.com/2227-7390/10/11/1799)
@@ -57,6 +67,8 @@ Please note that certain papers may be relevant to more than one category.
 
 ### Model Refinement
 
+* **QTIAH-GNN: Quantity and Topology Imbalance-aware Heterogeneous Graph Neural Network for Bankruptcy Prediction**, in *KDD* 2023. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599479)
+
 * **ImGCL: Revisiting Graph Contrastive Learning on Imbalanced Node Classification**, in *AAAI* 2023. [\[pdf\]](https://arxiv.org/pdf/2205.11332.pdf)
 
 * **Co-Modality Graph Contrastive Learning for Imbalanced Node Classification**, in *NeurIPS* 2022. [\[pdf\]](https://openreview.net/pdf?id=f_kvHrM4Q0) [\[code\]](https://github.com/graphprojects/CM-GCL)
@@ -78,6 +90,8 @@ Please note that certain papers may be relevant to more than one category.
 * **ImVerde: Vertex-Diminished Random Walk for Learning Imbalanced Network Representation**, in *Big Data* 2018. [\[pdf\]](https://arxiv.org/pdf/1804.09222.pdf) [\[code\]](https://github.com/jwu4sml/ImVerde)
 
 ### Loss Function Engineering
+
+* **QTIAH-GNN: Quantity and Topology Imbalance-aware Heterogeneous Graph Neural Network for Bankruptcy Prediction**, in *KDD* 2023. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599479)
 
 * **ImGCL: Revisiting Graph Contrastive Learning on Imbalanced Node Classification**, in *AAAI* 2023. [\[pdf\]](https://arxiv.org/pdf/2205.11332.pdf)
 
