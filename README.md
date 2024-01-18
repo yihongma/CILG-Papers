@@ -25,9 +25,11 @@ We aim to keep this list up to date. If you come across any errors or papers tha
 
 ### Data Interpolation
 
+* **Graph Neural Network with Curriculum Learning for Imbalanced Node Classification**, in *Neurocomputing* 2024. [\[pdf\]](https://arxiv.org/pdf/2202.02529.pdf)
+
 * **Rethinking Semi-Supervised Imbalanced Node Classification from Bias-Variance Decomposition**, in *NeurIPS* 2023. [\[pdf\]](https://arxiv.org/pdf/2310.18765.pdf) [\[code\]](https://github.com/yanliang3612/ReVar)
 
-* **Semantic-aware Node Synthesis for Imbalanced Heterogeneous Information Networks**, in *CIKM* 2023. [\[pdf\]](https://arxiv.org/pdf/2302.14061.pdf)
+* **Semantic-aware Node Synthesis for Imbalanced Heterogeneous Information Networks**, in *CIKM* 2023. [\[pdf\]](https://arxiv.org/pdf/2302.14061.pdf) [\[code\]](https://github.com/XYGaoG/SNS)
 
 * **HOVER: Homophilic Oversampling via Edge Removal for Class-Imbalanced Bot Detection on Graphs**, in *CIKM* 2023. [\[pdf\]](https://dl.acm.org/doi/pdf/10.1145/3583780.3615264)
 
@@ -35,11 +37,9 @@ We aim to keep this list up to date. If you come across any errors or papers tha
 
 * **Imbalanced Node Classifcation Beyond Homophilic Assumption**, in *IJCAI* 2023. [\[pdf\]](https://www.ijcai.org/proceedings/2023/0848.pdf)
 
-* **GraphMixup: Improving Class-Imbalanced Node Classification by Reinforcement Mixup and Self-supervised Context Prediction**, in *ECML/PKDD* 2023. [\[pdf\]](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_375.pdf) [\[code\]](https://github.com/LirongWu/GraphMixup)
+* **GraphMixup: Improving Class-Imbalanced Node Classification by Reinforcement Mixup and Self-supervised Context Prediction**, in *ECML/PKDD* 2022. [\[pdf\]](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_375.pdf) [\[code\]](https://github.com/LirongWu/GraphMixup)
 
 * **GATSMOTE: Improving Imbalanced Node Classification on Graphs via Attention and Homophily**, in *Mathematics* 2022. [\[pdf\]](https://www.mdpi.com/2227-7390/10/11/1799)
-
-* **Graph Neural Network with Curriculum Learning for Imbalanced Node Classification**, in *arXiv* 2022. [\[pdf\]](https://arxiv.org/pdf/2202.02529.pdf)
 
 * **GraphENS: Neighbor-Aware Ego Network Synthesis for Class-Imbalanced Node Classification**, in *ICLR* 2021. [\[pdf\]](https://openreview.net/pdf?id=MXEl7i-iru) [\[code\]](https://github.com/JoonHyung-Park/GraphENS)
 
